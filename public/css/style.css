@@ -1,0 +1,36 @@
+body {
+	background-color: lightgray;
+}
+#contents {
+	text-align: center;
+	padding-top: 10%;
+	padding-left: 40%;
+	padding-right: 40%;
+}
+#contents2 {
+	text-align: center;
+}
+#contents3 {
+	padding-left: 35%;
+	padding-right: 35%;
+	font-weight: bold;
+}
+#contents4 {
+	text-align: center;
+	padding-left: 30%;
+	padding-right: 30%;
+}
+a {
+	color: black;
+	text-decoration: none;	
+}
+h1,h2 {
+	background-color: white;
+	border: 5px solid black;
+}
+
+img {
+	height: 350px;
+	height: 330;
+	border: 5px solid black;	
+}
